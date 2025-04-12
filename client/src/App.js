@@ -16,6 +16,7 @@ function App() {
     setWeather(null);
 
     try {
+      
       const response = await axios.get(`https://weather-app-aep6.onrender.com/weather?city=${city}`);
       setWeather(response.data);
     } catch (err) {
