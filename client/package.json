@@ -139,5 +139,6 @@
     "presets": [
       "react-app"
     ]
-  }
+  },
+  "homepage": "https://weather-app-eta-sepia-86.vercel.app"
 }
