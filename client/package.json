@@ -139,8 +139,5 @@
     "presets": [
       "react-app"
     ]
-  },
-  {
-     "homepage": "https://Shashwatdwivedi30.github.io/weather-app/"
-}
+  }
 }
